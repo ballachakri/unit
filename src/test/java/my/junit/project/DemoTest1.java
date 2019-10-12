@@ -8,7 +8,7 @@ public class DemoTest1 {
 
     @Before
     public void demoTest1Before() {
-        System.out.println("This a before method in demoTest1Before method...................");
+        System.out.println("This a before method in demoTest 1 Before method...................");
     }
 
     @Test
@@ -19,7 +19,7 @@ public class DemoTest1 {
 
     @After
     public void demoTest1After() {
-        System.out.println("This a before method in demoTest1Before method...................");
+        System.out.println("This a before method in demoTest 1 Before method...................");
     }
 
 }
